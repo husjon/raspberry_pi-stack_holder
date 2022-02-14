@@ -16,6 +16,10 @@
 ## Requirements
 * [OpenSCAD](https://openscad.org/downloads.html)
 
+
+## Grabcad
+Full example model can be seen on GrabCAD https://grabcad.com/library/raspberry-pi-stack-1.
+
 ## Example
 ![Holder using default parameters](holder.png)
 Holder generated using default parameters
